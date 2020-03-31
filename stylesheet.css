@@ -1,0 +1,136 @@
+  @media screen and (max-width: 767px)
+body {
+    min-width: 320px;
+    line-height: 1.5;
+}
+body {
+    font-weight: 300;
+    line-height: 1.5;
+}
+@media screen and (max-width: 767px)
+html, body {
+    font-size: 4.375vw;
+}
+html, body {
+    color: #1a1a1a;
+    font-size: 16px;
+    font-family: 'Noto Sans';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+}
+body {
+    margin: 0;
+}
+*, ::after, ::before {
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    cursor: default;
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Oxygen,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    line-height: 1.15;
+    -moz-tab-size: 4;
+    tab-size: 4;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    word-break: break-word;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+::after, ::before {
+    text-decoration: inherit;
+    vertical-align: inherit;
+}
+*, ::after, ::before {
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+::after, ::before {
+    text-decoration: inherit;
+    vertical-align: inherit;
+}
+*, ::after, ::before {
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+::selection {
+    background-color: #b3d4fc;
+    color: #000;
+    text-shadow: none;
+}
+@media screen and (max-width: 767px)
+body {
+    min-width: 320px;
+    line-height: 1.5;
+}
+body {
+    font-weight: 300;
+    line-height: 1.5;
+}
+@media screen and (max-width: 767px)
+html, body {
+    font-size: 4.375vw;
+}
+html, body {
+    color: #1a1a1a;
+    font-size: 16px;
+    font-family: 'Noto Sans';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+}
+body {
+    margin: 0;
+}
+*, ::after, ::before {
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    cursor: default;
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Oxygen,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    line-height: 1.15;
+    -moz-tab-size: 4;
+    tab-size: 4;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    word-break: break-word;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+::after, ::before {
+    text-decoration: inherit;
+    vertical-align: inherit;
+}
+*, ::after, ::before {
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+::after, ::before {
+    text-decoration: inherit;
+    vertical-align: inherit;
+}
+*, ::after, ::before {
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+::selection {
+    background-color: #b3d4fc;
+    color: #000;
+    text-shadow: none;
+}
